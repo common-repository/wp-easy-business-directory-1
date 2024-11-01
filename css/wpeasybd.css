@@ -1,0 +1,85 @@
+/* WP-EASY-BUSINESS-DIRECTORY CSS */
+
+#easybd-left-ul {
+float:left; 
+width:280px;
+font-size: 14px;
+}
+
+#easybd-left-ul li a {
+text-decoration: none; 
+color:black; 
+}
+
+#easybd-left-ul li a:hover {
+text-decoration: none; 
+color:red; 
+}
+
+#easybd-right-ul {
+float:right; 
+width:280px;
+font-size: 14px;
+}
+
+#easybd-right-ul li a {
+text-decoration: none; 
+color:black; 
+}
+
+#easybd-right-ul li a:hover {
+text-decoration: none; 
+color:red; 
+}
+
+#easybd-div { 
+border-bottom:1px dashed grey; 
+padding:0px; 
+margin:8px 0 8px 0; 
+padding: 3px 0 8px 0;
+}
+
+.easybd-span1 {
+display:block; 
+color:blue; 
+clear:both;
+font-size: 16px;
+color: #a52a11;
+font-weight: bold;
+}
+
+.easybd-span2 {
+display:block; 
+color:black; 
+clear:both;
+}
+
+.easybd-span3 {
+display:block;  
+color:balck; 
+clear:both; 
+font-size:13px;
+}
+
+.easybd-span10 {
+display:block;  
+color:balck; 
+clear:both;
+font-size:13px; 
+border-bottom: 1px dashed grey; 
+border-top: 1px dashed grey;
+}
+
+/* WP-EASY-BUSINESS-DIRECTORY CSS */
+
+
+
+#wpeasybdform {
+
+}
+#wpeasybdform label {
+width: 160px; float:left;
+}
+#wpeasybdform input,textarea {
+width: 300px;
+}
